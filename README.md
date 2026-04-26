@@ -1,5 +1,11 @@
 # Práctica 1: Análisis de tráfico aéreo
 
+## ⚠️ Known issues
+Windows users may encounter issues with line endings when running the scripts. To resolve this, you can use the following command to convert the line endings to Unix format:
+```
+PRDT-analisis-trafico-aereo/scripts$ sed -i 's/\r$//' *
+```
+
 ## 📁 Folder structure
 ```
 └── 📁PRDT-analisis-trafico-aereo
