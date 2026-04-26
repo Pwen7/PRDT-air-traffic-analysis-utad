@@ -1,0 +1,22 @@
+# Práctica 1: Análisis de tráfico aéreo
+
+## 📁 Folder structure
+```
+└── 📁PRDT-analisis-trafico-aereo
+    └── 📁data
+        ├── datos_practica.tar.gz
+    └── 📁scripts
+        ├── 01_setup_infra.sh
+        ├── 02a_spark_master.sh
+        ├── 02b_spark_worker1.sh
+        ├── 02c_spark_worker2.sh
+        ├── 03_spark_shell.sh
+    └── 📁src
+        ├── 01_countries.sc
+        ├── 02_airlines.sc
+        ├── 03_airports.sc
+        ├── 04_routes.sc
+        ├── 05a_queries.sc
+        ├── 05b_aggregations.sc
+    └── README.md
+```
